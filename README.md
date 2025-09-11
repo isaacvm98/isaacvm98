@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isaacvm98
-- 👀 I’m interested in Sports Analytics, Econometrics, ML
-- 🌱 I’m currently learning MLops, Deep Learning
+- 👀 I’m interested in Sports Analytics, Econometrics, Quantitative Finance
+- 🌱 I’m currently learning Algorithmic Trading, Deep Learning
 - 💞️ I’m looking to collaborate on Sports Analytics projects 
 - 📫 How to reach me isaacvergaram@hotmail.com
 
