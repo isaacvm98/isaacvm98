@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @isaacvm98
 - 👀 I’m interested in Sports Analytics, Econometrics, Quantitative Finance
 - 🌱 I’m currently learning Algorithmic Trading, Deep Learning
-- 💞️ I’m looking to collaborate on Sports Analytics projects 
+- 💞️ I’m looking to collaborate on Sports Analytics/Quant Finance projects 
 - 📫 How to reach me isaacvergaram@hotmail.com
 
 <!---
