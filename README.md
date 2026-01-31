@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @isaacvm98
-- 👀 I’m interested in Sports Analytics, Econometrics, Quantitative Finance
-- 🌱 I’m currently learning Algorithmic Trading, Deep Learning
-- 💞️ I’m looking to collaborate on Sports Analytics/Quant Finance projects 
-- 📫 How to reach me isaacvergaram@hotmail.com
+# Isaac Vergara
 
-<!---
-isaacvm98/isaacvm98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+MS Data Science @ Duke (Quantitative Finance concentration)
+
+Research: Leverage pricing for prediction markets (epoch-based framework validation)
+
+4 years production ML at Enable Global & Entropia AI
+Technical Co-founder at Fiscal Mind
+
+Working on quantitative trading systems, pricing models, and applied ML.
+
+[Website](https://isaacvm98.github.io/) | isaacvergaram@hotmail.com
